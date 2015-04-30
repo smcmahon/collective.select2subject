@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<layers>
+  <layer
+    name="collective.select2subject"
+    interface="collective.select2subject.interfaces.ICustomLayer"
+  />
+</layers>

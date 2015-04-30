@@ -1,0 +1,6 @@
+#content .select2-container--default .select2-selection--multiple .select2-selection__rendered {
+    list-style: outside none none;
+}
+.select2-results__options li {
+    display: block;
+}
